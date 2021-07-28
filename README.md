@@ -12,8 +12,8 @@ Afraz
 
 **Build of Final Game** : https://drive.google.com/drive/folders/1VyxOFBoQ-cRB2KVRJ1syruHLioJbp5aD?usp=sharing
 
-_**Work Done By Me**: Programming and implemenatation of Features (Almost all programming except Health Bar and Menu UI scripts) , Overall Game Design and implementation, Managing Team_
+_**Work Done By Me**: Organising/Making all the assets needed for the game design ie gun, character models, collectibles, throwables and character animations. Made an ending animation that wasnt included in the end game.
 
-**Video of 1st Week Submission**: https://drive.google.com/file/d/1bzLICXzTFc2ztuLpDnJqoiR-f7Ph6DBc/view?usp=sharing
+**Video of 1st Week Submission**: https://drive.google.com/file/d/1pFLbqG3RRvgrKcQbW-Jy0SVls-DYOjoA/view?usp=sharing
 
-**Github Link of 1st Week Submission** : https://github.com/server-crash/evaluation-1
+**Github Link of 1st Week Submission** : https://github.com/muditchand/evaluation-1
