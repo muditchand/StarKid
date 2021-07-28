@@ -12,7 +12,7 @@ Afraz
 
 **Build of Final Game** : https://drive.google.com/drive/folders/1VyxOFBoQ-cRB2KVRJ1syruHLioJbp5aD?usp=sharing
 
-_**Work Done By Me**: Organising/Making all the assets needed for the game design ie gun, character models, collectibles, throwables and character animations. Made an ending animation that wasnt included in the end game.
+_**Work Done By Me**: Organising/Making all the assets needed for the game design ie gun, character models, collectibles, throwables and character animations. Made an ending animation that wasnt included in the end game. Designed the game poster.
 
 **Video of 1st Week Submission**: https://drive.google.com/file/d/1pFLbqG3RRvgrKcQbW-Jy0SVls-DYOjoA/view?usp=sharing
 
